@@ -2,6 +2,8 @@
 
 Simple example of a config file and job script to demonstrate the use of supervisor
 
+Docs: http://supervisord.org/
+
 Get the software.
 
     git clone https://github.com/BCM-HGSC/supervisor-demo.git
